@@ -3,8 +3,37 @@
     src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
     font-weight: 700;
 }
-body{
+.body{
     background-color:#7452A3 ;
-
-
+}
+.home{
+    position: absolute;
+    width: 212px;
+    height: 45px;
+    margin-top: 40px;
+    margin: 15px;
+    padding: 15px;
+    left: 90px;
+}
+.text1{
+    position: absolute;
+    width: 821px;
+    height: 192px;
+    margin: 15px;
+    left: 90px;
+    height: 192px;
+    top: 200px;
+    font-size: 55px;
+    color: #99F7E2;
+}
+.text2{
+    position: absolute;
+    width: 792px;
+    height: 129px;
+    margin: 15px;
+    left: 90px;
+    font-size: 30px;
+    height: 192px;
+    top: 360px;
+    color: #99F7E2;
 }
