@@ -37,3 +37,28 @@
     top: 360px;
     color: #99F7E2;
 }
+.body1 {
+    background-color:#FFFFFF ;
+}
+.imagen{
+    background: url(../img/image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 64%;
+    height: 605px;
+    top: 700px;
+    right: 518px;
+}
+.texto3{
+    position: absolute;
+    width: 792px;
+    height: 129px;
+    margin: 15px;
+    left: 870px;
+    font-size: 23px;
+    height: 192px;
+    top: 560px;
+    color: #99F7E2;
+    text-align: start;
+}
