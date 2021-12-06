@@ -1,5 +1,5 @@
 @font-face {
-    font-family: sf;
+    font-family:sf;
     src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
     font-weight: 700;
 }
@@ -7,27 +7,25 @@
     background-image:url(../img/Rectangle.jpg) ;
 }
 .home{
-    font-family: sf;
+    font-family:sf;
     src:url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
     font-weight: 700;
     position: absolute;
     width: 212px;
     height: 45px;
-    margin-top: 40px;
-    margin: 15px;
+    top: 40px;
     font-size: 36px;
-    padding: 15px;
     left: 90px;
 }
 .text1{
-    font-family: sf;
+    font-family:sf;
     src: url(../fons/Libre_Baskerville/LibreBaskerville-Regular.ttf);
     font-weight: 700;
     position: absolute;
     width: 821px;
     height: 192px;
     margin: 15px;
-    left: 90px;
+    left: 150px;
     height: 192px;
     top: 230px;
     font-size: 62px;
@@ -41,43 +39,36 @@
     width: 792px;
     height: 129px;
     margin: 15px;
-    left: 90px;
+    left: 150px;
     font-size: 18px;
     height: 192px;
     top: 430px;
     color: white
 }
-.imagen{
-    background: url(../img/Shape.png);
-    
-    position: absolute;
-    
-    width: 24px;
-    height: 9px;
- 
-    height: 16px;
-    top: 500px;
-    color: white
-}
+
 .imagen-2{
-background: url(../img/blanco.png);
-position: absolute;
-    width: 10000px;
-    height: 0px;
+    background: url(../img/blanco.png);
+    position: absolute;
+    width: 1440px;
     margin: -90px;
     left: 97px;
-    font-size: 5px;
-    height: 1000px;
+    height: 1024px;
     top: 900px; 
 }
 .imagen-3{
     position: absolute;
     top: 715px;
-    margin-left: 560px;
+    left: 650px;
 
 }
 .imagen-4{
     position: absolute;
-    top: 329px;
-    margin-left: 1100px;
+    top: 436px;
+    left: 1380px;
+}
+.Rectangle{
+    top: 900px;
+    margin: 1%;
+    position: absolute;
+    left: 667px;
 }
