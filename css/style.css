@@ -3,8 +3,9 @@
     src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
     font-weight: 700;
 }
-.body{
-    background-image:url(../img/Rectangle.jpg) ;
+.body2{
+    width: 1440px;
+    height: 900px;
 }
 .home{
     font-family:sf;
@@ -12,22 +13,21 @@
     font-weight: 700;
     position: absolute;
     width: 212px;
-    height: 45px;
-    top: 40px;
+    height: 42px;
+    top: 32px;
     font-size: 36px;
     left: 90px;
 }
 .text1{
     font-family:sf;
     src: url(../fons/Libre_Baskerville/LibreBaskerville-Regular.ttf);
-    font-weight: 700;
+    font-weight: 400;
     position: absolute;
     width: 821px;
+    line-height: 1.6;
     height: 192px;
-    margin: 15px;
-    left: 150px;
-    height: 192px;
-    top: 230px;
+    left: 153px;
+    top: 333px;
     font-size: 62px;
     color: #99F7E2;
 }
@@ -39,10 +39,10 @@
     width: 792px;
     height: 129px;
     margin: 15px;
-    left: 150px;
+    left: 135px;
     font-size: 18px;
-    height: 192px;
-    top: 430px;
+    line-height: 2.14;
+    top: 540px;
     color: white
 }
 
@@ -53,22 +53,81 @@
     margin: -90px;
     left: 97px;
     height: 1024px;
-    top: 900px; 
+    top: 1105px; 
 }
 .imagen-3{
     position: absolute;
-    top: 715px;
-    left: 650px;
+    top:905px;
+    left: 702px;
 
 }
 .imagen-4{
     position: absolute;
-    top: 436px;
+    top: 428px;
     left: 1380px;
 }
 .Rectangle{
-    top: 900px;
-    margin: 1%;
+    top: 1157px;
     position: absolute;
-    left: 667px;
+    left: 734px;
+}
+.mans{
+    top: 1267px;
+    position: absolute;
+    left: 0px;
+}
+.texto-3{
+    position: absolute;
+    font-family: sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Regular.ttf);
+    font-weight: 700;
+    color: #7452A3;
+    font-size: 46px;
+    width: 454px;
+    left: 834px;
+    top: 1275px;
+    line-height: 1.5;
+}
+.texto-4{
+    position: absolute;
+    font-family: sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
+    color:black;
+    font-size: 18px;
+    width: 465px;
+    left: 832px;
+    top: 1504px;
+    line-height:2.0;
+}
+.texto-5{
+    position: absolute;
+    font-family:sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Regular.ttf);
+    font-weight: 700;
+    color:#67B3FF;
+    font-size: 18px;
+    width: 280px;
+    left: 832px;
+    top: 1735px;
+    line-height:2;
+}
+.whent{
+    position: absolute;
+    top: 2255px;
+    left: 121px;
+}
+.texto-6{
+    position: absolute;
+    font-family:sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Regular.ttf);
+    color: #7452A3;
+    font-size: 45px;
+    top: 2172px;
+    left: 580px;
+}
+.navbar-5{
+    top: 2480px;
+    left: 606px;
+    position: absolute;
 }
