@@ -3,110 +3,36 @@
     src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
     font-weight: 700;
 }
-.body{
-    background-color:#7452A3 ;
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    top: 5018px;
+    left: 0px;
 }
-.home{
+.texto-encima{
     position: absolute;
-    width: 212px;
-    height: 45px;
-    margin-top: 40px;
-    margin: 15px;
-    padding: 15px;
-    left: 90px;
-}
-.text1{
-    position: absolute;
-    width: 821px;
-    height: 192px;
-    margin: 15px;
-    left: 90px;
-    height: 192px;
-    top: 200px;
-    font-size: 55px;
+    top: 92px;
+    font-size: 3.19rem;
+    left: 221px;
+    width: 736px;
     color: #99F7E2;
 }
-.text2{
+.centrado{
     position: absolute;
-    width: 792px;
-    height: 129px;
-    margin: 15px;
-    left: 90px;
-    font-size: 30px;
-    height: 192px;
-    top: 360px;
-    color: #99F7E2;
+    top: 49%;
+    left: 42%;
+    transform: translate(-50%, -50%);
+    font-size: 1.30rem;
+    width: 737px;
 }
-.body1 {
-    background-color:#FFFFFF ;
-}
-.imagen{
-    background: url(../img/image.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+.btn-primary {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
     position: absolute;
-    width: 64%;
-    height: 605px;
-    top: 700px;
-    right: 518px;
-}
-.texto3{
-    position: absolute;
-    width: 792px;
-    height: 129px;
-    margin: 15px;
-    left: 870px;
-    font-size: 23px;
-    height: 192px;
-    top: 560px;
-    color: #99F7E2;
-    text-align: start;
-}
-.contact{
-    text-align: center;
-    position: absolute;
-    left: 580px;
-    top: 4777px;
-    font-size: 3.5rem;
-}
-.logo{
-    background: url(../img/Logo.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: absolute;
-    width: 924px;
-    height: 468px;
-    left: 256px;
-    top: 4880px;
-}
-.contact-us{
-    text-align: center;
-    position: absolute;
-    left: 381px;
-    top: 5634px;
-    font-size: 3.2rem;
-}
-.texto-us{
-    text-align: center;
-    position: absolute;
-    left: 374px;
-    top: 5724px;
-    width: 685px;
-    font-size: 1.3rem;
-}
-.btn-primary{
-    position: absolute;
-    left: 374px;
-    top: 5724px;
-    width: 685px;
-}
-.btn-outline-light{
-    position: absolute;
-    left: 256px;
-    top: 4880px;
-}
-.btn-outline-light1{
-    position: absolute;
-    left: 356px;
-    top: 4880px;
+    top: 95px;
+    font-size: 2.3rem !important;
+    left: 248px;
+    width: 224px;
 }
