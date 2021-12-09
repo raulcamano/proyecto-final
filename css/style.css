@@ -110,7 +110,7 @@
     width: 280px;
     left: 832px;
     top: 1735px;
-    line-height:2;
+    line-height: 2;
 }
 .whent{
     position: absolute;
@@ -130,4 +130,196 @@
     top: 2480px;
     left: 606px;
     position: absolute;
+}
+.blue{
+    position: absolute;
+    top: 601px;
+    left: -606px;
+}
+.blucito{
+    position: absolute;
+    top: 1608px;
+    left: -606px;
+}
+.curry{
+    width: 458px;
+    height: 69px;
+    left: -462px;
+    top: 1070px;
+    position: absolute;
+    font-size: 46px;
+    font-family: sf;
+    src: url(../font/LibreBaskerville-Regular.ttf);
+    font-weight: 700;
+}
+.leo{
+    left: 223px;
+    top: 862px;
+    width: 458px;
+    height: 36px;
+    position: absolute;
+    font-size: 24px;
+    font-family: sf;
+    src: url(../font/LibreBaskerville-Regular.ttf);
+    font-weight: 700;
+   
+}
+.geo{
+    left: 226px;
+    top: 914px;
+    width: 458px;
+    height: 112.5px;
+    position: absolute;
+    font-size: 18px;
+    font-family: sf;
+    src: url(../font/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
+    line-height:2;
+}
+.fer{
+    left: 226px;
+    top: 1064px;
+    width: 146px;
+    height: 36px;
+    position: absolute;
+    font-size: 24px;
+    font-family: sf;
+    src: url(../font/LibreBaskerville-Regular.ttf);
+    font-weight: 700;
+}
+.lor{
+    left: 226px;
+    top: 1116px;
+    line-height: 2;
+    width: 458px;
+    height: 112.5px;
+    position: absolute;
+    font-size: 18px;
+    font-family: sf;
+    src: url(../font/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
+}
+.gin{
+    left: 226px;
+    top: 1264px;
+    width: 458px;
+    height: 36px;
+    position: absolute;
+    font-size: 24px;
+    font-family: sf;
+    src: url(../font/LibreBaskerville-Regular.ttf);
+    font-weight: 700;
+}
+.ped{
+    left: 226px;
+    top: 1315px;
+    line-height: 2;
+    width: 458px;
+    height: 112.5px;
+    position: absolute;
+    font-size: 18px;
+    font-family: sf;
+    src: url(../font/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
+}
+.loria{
+    left: 226px;
+    top: 1552px;
+    width: 293px;
+    height: 61.5px;
+    position: absolute;
+    font-size: 18px;
+    font-family: sf;
+    src: url(../font/LibreBaskerville-Regular.ttf);
+    font-weight: 700;
+}
+.geova{
+    left: -26px;
+    top: 1800px;
+    width: 458px;
+    height: 80px;
+    position: absolute;
+    font-size: 46px;
+    font-family: sf;
+    src: url(../font/LibreBaskerville-Regular1.ttf);
+    font-weight: 700;
+}
+.www{
+    position: absolute;
+    top: 1887px;
+    left: -359px;
+}
+.logo1{
+    position: absolute;
+    top: 2170px;
+    left: 370px;
+}
+.logo2{
+    position: absolute;
+    top: 2170px;
+    left: -307px;
+}
+
+.logo3{
+    position: absolute;
+    top: 2170px;
+    left: -80px;
+}
+
+.logo-3{
+    position: absolute;
+    top: 1943px;
+    left: 370px;
+}
+
+.logo4{
+    position: absolute;
+    top: 2170px;
+    left: 141px;
+}
+.logo-4{
+    position: absolute;
+    top: 1943px;
+    left: 143px;
+}
+.logo5{
+    position: absolute;
+    top: 1943px;
+    left: -74px;
+}
+.logo6{
+    position: absolute;
+    top: 1943px;
+    left: -307px;
+}
+.line{
+    position: absolute;
+    top: 2128px;
+    left: -348px;
+}
+.line2{
+    position: absolute;
+    left: -107px;
+    top: 1895px;
+}
+.line3{
+    position: absolute;
+    left: 109px;
+    top: 1895px;
+}
+.line4{
+    position: absolute;
+    left: 324px;
+    top: 1895px;
+}
+
+.navbar-6{
+    position: absolute;
+    left: 69px;
+    top: 0px;
+}
+.navbar-7{
+    position: absolute;
+    left: 411px;
+    top: 2370px;
 }
