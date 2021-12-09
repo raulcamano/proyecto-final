@@ -8,31 +8,87 @@
     display: inline-block;
     text-align: center;
     top: 5018px;
-    left: 0px;
+    left: -119px;
 }
 .texto-encima{
+    font-family: sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
     position: absolute;
-    top: 92px;
-    font-size: 3.19rem;
-    left: 221px;
-    width: 736px;
+    top: 100px;
+    font-size: 2.9rem;
+    left: 380px;
+    letter-spacing: -1px;
+    width: 685px;
     color: #99F7E2;
 }
 .centrado{
+    font-family: sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
     position: absolute;
     top: 49%;
-    left: 42%;
+    left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 1.30rem;
+    font-size: 1.100rem;
     width: 737px;
 }
-.btn-primary {
+.btn-primary{
+    font-family: sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
     color: #fff;
-    background-color: #0d6efd;
-    border-color: #0d6efd;
+    background-color: #00309A !important;
+    border-color: #00309A !important;
     position: absolute;
-    top: 95px;
+    top: 100px;
     font-size: 2.3rem !important;
-    left: 248px;
-    width: 224px;
+    left: 257px;
+    width: 230px;
+}
+.contenedor1{
+    font-family: sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    top: 5018px;
+    left: -118px;
+}
+.texto-encima1{
+    font-family: sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
+    position: absolute;
+    top: 70px;
+    font-size: 2.1rem;
+    left: 155px;
+    color: #99F7E2;
+}
+.centrado1{
+    font-family: sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
+    position: absolute;
+    top: 95%;
+    left: 21.5%;
+    transform: translate(-50%, -50%);
+    font-size: 0.75rem;
+    width: 352px;
+    word-spacing: 14px;
+    color: #ffffff;
+}
+.centrado2{
+    font-family: sf;
+    src: url(../fons/Libre_Baskerville/LibreBaskerville-Bold.ttf);
+    font-weight: 700;
+    position: absolute;
+    top: 95.5%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    font-size: 0.75rem;
+    width: 352px;
+    word-spacing: 3px;
+    color: #ffffff;
 }
